@@ -1,0 +1,33 @@
+[
+  {
+    "Name": "R&D",
+    "activities": [
+      "E&T",
+      "Embedded Group",
+      "e-Governance",
+      "Data and information system",
+      "Health information system",
+      "NLP"
+    ],
+    "activities_discription": [
+      "Each group perform R & D project in their specific domain.",
+      "Project may be funded by government agencies or sponsored by MeitY.",
+      "They are high end solution for the public use cases."
+    ]
+  },
+  {
+    "Name": "Academic",
+    "activities": [
+      "MCA",
+      "MBA",
+      "M-Tech",
+      "International Programs",
+      "PGDAC Programms"
+    ],
+    "activities_discription": [
+      "Formal programs are conducted by CDAC Noida in association with IP university.",
+      "International programs are conducted under MEA scheme of Government of India.",
+      "PGDAC is CDAC’s in-house program designed to provide skill-based education to students in advanced computing."
+    ]
+  }
+]
